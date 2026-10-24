@@ -17,4 +17,10 @@ switch (codeduplat) {
     default:
         prixunitaire = 0;
 }
+function calculerMontantTotal(prixunitaire, quantite) {
+    return prixunitaire * quantite;
+}
+
+let montanttotal = calculerMontantTotal(prixunitaire, quantite);
+let reste = montantverse - montanttotal;
 
