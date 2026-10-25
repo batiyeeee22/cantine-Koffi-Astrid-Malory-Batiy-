@@ -1,6 +1,6 @@
 let client = "AWA";
-let codeduplat = 1;
-let quantite = Number("3");
+let codeduplat = 3;
+let quantite = Number("4");
 let montantverse = 5000;
 let prixunitaire = 0;
 let nomduplat = "Plat inconnu";

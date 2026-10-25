@@ -1,0 +1,26 @@
+//cas avec le code du plat 1 et quantité 3
+Client : AWA
+Nom du plat : Attiéké-poisson
+Prix unitaire : 1500 FCFA
+Portion 1
+Portion 2
+Portion 3
+Montant total : 4500 FCFA
+Reste : 500 FCFA
+// cas avec le code du plat2 et quantité 2
+Client : AWA
+Nom du plat : Riz-poulet
+Prix unitaire : 2000 FCFA
+Portion 1
+Portion 2
+Montant total : 4000 FCFA
+Reste : 1000 FCFA
+// cas avec le code du plat2 et quantité 2
+Nom du plat : Alloco-oeuf
+Prix unitaire : 1000 FCFA
+Portion 1
+Portion 2
+Portion 3
+Portion 4
+Montant total : 4000 FCFA
+Reste : 1000 FCFA
